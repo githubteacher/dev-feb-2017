@@ -5,9 +5,8 @@
  - Matt Desmond (@beardofedu) :microphone:
  - Cythia Rich (@crichID) :speech_balloon:
 
-## Give Us Feedback
-
-Please take a moment to complete the class survey at: http://www.surveygizmo.com/s3/3288613/9a8fab536ff6.
+# Talk to Us!!
+Join us in the classroom Gitter: https://gitter.im/githubschool/dev-feb-2017
 
 ## Scripts for Adding Files
 
