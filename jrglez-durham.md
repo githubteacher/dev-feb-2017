@@ -2,8 +2,8 @@
 
 ## Places to eat
 - Lebaneat
-- Leonards Coffee House for sandwich and :coffee:
-- Bells for :fish&chips" 
+- Leonards Coffee House for sandwiches and :coffee:
+- Bells for fish & chips 
 
 
 ## Places to visit
