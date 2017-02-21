@@ -11,3 +11,4 @@
 - Mark Twain house in Hartford
 - CT Science Museum in Hartford
 - Peabody Museum in New Haven
+- Town of Litchfield  
