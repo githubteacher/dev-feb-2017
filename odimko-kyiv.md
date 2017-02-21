@@ -5,4 +5,5 @@
 - Tolstyi Lev
 
 ## Places to Visit
-
+1. The Maidan Square
+1. The Friendship Arc
