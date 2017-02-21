@@ -1,11 +1,11 @@
-# Dulles, Va
+ # Dulles, Va
 
-## Places to Eat
+## Places to Eat Quickly in the Airport
 
 - 5 Guys
 - McDonalds
 - KFC
 
-## Places to Visit
+## Places to Visit near the airport
 
 - Air and Space Museum
