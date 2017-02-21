@@ -6,3 +6,5 @@
 - Mum's for GOOD food
 
 ## Places to Visit
+- Sheffield Industrial Museum
+- Sheffield Wednesday Football (NOT soccer) Club
