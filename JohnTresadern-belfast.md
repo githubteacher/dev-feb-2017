@@ -7,3 +7,4 @@
 
 ## Places to Visit
 - Crumlin Gaol
+- Bready (it's lovely)
