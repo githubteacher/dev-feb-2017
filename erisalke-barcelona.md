@@ -5,3 +5,5 @@
 - there
 
 ## Places to Visit
+- Sagrada Familia
+- Parc Guell
