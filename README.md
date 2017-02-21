@@ -5,12 +5,12 @@
  - Matt Desmond (@beardofedu) :microphone:
  - Cythia Rich (@crichID) :speech_balloon:
 
+# Talk to Us!!
+- [Gitter](https://gitter.im/githubschool/dev-feb-2017)
+
 ## Give Us Feedback
 
 Please take a moment to complete the class survey at: https://goo.gl/48XlDY.
-
-# Talk to Us!!
-Join us in the classroom Gitter: https://gitter.im/githubschool/dev-feb-2017
 
 ## Scripts for Adding Files
 
