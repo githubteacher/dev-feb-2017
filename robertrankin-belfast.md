@@ -1,7 +1,7 @@
 # Belfast, UK
 
 ## Places to eat
-- Boojum for :burritos:
+- Boojum for :burrito:
 - Kaffe-O for :coffee:
 - Bagel bagel for lazy ppl
 
