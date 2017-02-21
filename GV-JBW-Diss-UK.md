@@ -8,3 +8,6 @@
 1. I don't live here just work
 
 ## Places to Visit
+1. There's a big pond in the middle of the town.
+1. There are some fields around the edge of the town.
+1. That's about it.
