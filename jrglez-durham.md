@@ -2,7 +2,7 @@
 
 ## Places to eat
 - Lebaneat
-- Leonards Coffee House for :sandwichy: and :coffee:
+- Leonards Coffee House for sandwich and :coffee:
 - Bells for :fish&chips" 
 
 
