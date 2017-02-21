@@ -3,6 +3,6 @@
 ## Places to Eat
 - Dunedin Brewery for :beers: and :taco:
 - Saint Somewhere Brasserie
-- Taco Bell
+- Cigar City Brewpub for :hamburger:
 
 ## Places to Visit
