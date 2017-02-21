@@ -1,8 +1,8 @@
 # Durham, UK
 
 ## Places to eat
-- Lebaneat for :mediterranean:
-- Leonards Coffee House for :sandwiches: and :coffee:
+- Lebaneat
+- Leonards Coffee House for :sandwichy: and :coffee:
 - Bells for :fish&chips" 
 
 
