@@ -1,7 +1,7 @@
 # Knoxville, TN
 
 ## Places to Eat
-- Mirage of Knoxville for :baba ganoush: and :mixed drinks:
+- Mirage of Knoxville for baba ganoush and mixed drinks
 - Pizza Palace
 - Buddy's BBQ
 
