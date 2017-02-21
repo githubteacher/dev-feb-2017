@@ -6,4 +6,7 @@
 - Pret A Manger
 
 ## Places to Visit
-
+- Emoire State Building
+- Fort Tryon
+- The Highline
+- Central Park
