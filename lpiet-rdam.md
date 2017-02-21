@@ -1,6 +1,6 @@
 # Rdam, NL
 
-## Eat
+## Eat non-classy places
 - Mc
 - Bk
 - Smullers 
