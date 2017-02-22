@@ -7,6 +7,8 @@
 
 ##Places to Visit
 1. Chapelfield Park
-1. Earlahm Park! 
+1. Earlahm Park!
 
 blah
+
+Editing with atom. 
